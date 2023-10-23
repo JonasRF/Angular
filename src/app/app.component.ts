@@ -6,7 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular';
-  buttonLabel: string = "CARRINHO";
-  buttonSecond: string = "ADCIONAR A FOVORITOS";
+  title = 'Tour of Heroes';
 }
